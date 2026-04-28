@@ -1,0 +1,9 @@
+[submodule "dwm"]
+	path = dwm
+	url = https://github.com/rycamosun/dwm.git
+[submodule "st"]
+	path = st
+	url = https://github.com/rycamosun/st.git
+[submodule "dmenu"]
+	path = dmenu
+	url = https://github.com/rycamosun/dmenu.git
